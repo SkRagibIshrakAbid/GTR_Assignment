@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GTR_ASS.props" />
+</Project>

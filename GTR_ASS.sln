@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33913.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GTR_ASS", "GTR_ASS\GTR_ASS.csproj", "{8B261A4A-5527-48A8-AA78-D4F7A1211C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTR.Ass.MVC", "GTR.Ass.MVC\GTR.Ass.MVC.csproj", "{0FDCD4D0-2B53-4294-8F56-3D9473A6B578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B261A4A-5527-48A8-AA78-D4F7A1211C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B261A4A-5527-48A8-AA78-D4F7A1211C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B261A4A-5527-48A8-AA78-D4F7A1211C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B261A4A-5527-48A8-AA78-D4F7A1211C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FDCD4D0-2B53-4294-8F56-3D9473A6B578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDCD4D0-2B53-4294-8F56-3D9473A6B578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDCD4D0-2B53-4294-8F56-3D9473A6B578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDCD4D0-2B53-4294-8F56-3D9473A6B578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3177E0AD-11CF-432D-B2E9-A2638D0A6245}
+	EndGlobalSection
+EndGlobal

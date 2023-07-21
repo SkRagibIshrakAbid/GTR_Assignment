@@ -1,0 +1,42 @@
+﻿@model List<GTR.Ass.MVC.Models.Product>
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<div class="container mt-5">
+    </br>
+    <div> <a class="btn btn-primary" href="@Url.Action("Create")">Create New</a></div>
+    </br>
+    <h1>Product List</h1>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Description</th>
+                <th>Quantity in Stock</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                var product = Model[i];
+                <tr>
+                    <td>@(i + 1)</td>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>@product.Description</td>
+                    <td>@product.QuantityInStock</td>
+                    <td>
+                        <a class="btn btn-primary" href="@Url.Action("Details", new { id = product.ProductId })">Details</a>
+                        <a class="btn btn-warning" href="@Url.Action("Edit", new { id = product.ProductId })">Edit</a>
+                        <a class="btn btn-danger" href="@Url.Action("Delete", new { id = product.ProductId })">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

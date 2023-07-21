@@ -1,0 +1,16 @@
+﻿@model GTR.Ass.MVC.Models.Product
+
+@{
+    ViewData["Title"] = "Delete Product";
+}
+
+<div class="container mt-5">
+    <h1>Delete Product</h1>
+    <form asp-action="ConfrimDelete" asp-route-id="@Model.ProductId" method="post">
+        <div class="form-group">
+            <label>Are you sure you want to delete the product: <span style="color: red;">@Model.Name</span>?</label>
+        </div>
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a class="btn btn-secondary" href="@Url.Action("Index")">Cancel</a>
+    </form>
+</div>

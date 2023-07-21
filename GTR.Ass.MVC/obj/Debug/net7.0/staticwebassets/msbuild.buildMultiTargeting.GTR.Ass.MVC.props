@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GTR.Ass.MVC.props" />
+</Project>
