@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ImvLqarUzmyTt33jA75SM94x+wmPywDprU6RMXuLvha9DSHRFEWdb7MD5QcNhrAhOLOWXWTZKxQHGVt58bjodw==",
+  "dgSpecHash": "Wk8NhuExBq6QGk+GShsxTVsvVjWUsowOP1whrUJEWjBvQ7INtCTyYS649cvHe/dzNKrT+53p719IEyhbSpjroQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abidi\\Downloads\\Asp.NetCore7_Test-Nijum\\GTR_ASS\\GTR_ASS.csproj",
+  "projectFilePath": "C:\\Users\\abidi\\Downloads\\GTR\\GTR_Assignment\\GTR_ASS\\GTR_ASS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abidi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\abidi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

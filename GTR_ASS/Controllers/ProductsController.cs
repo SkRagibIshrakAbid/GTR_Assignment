@@ -63,7 +63,7 @@ namespace GTR_ASS.Controllers
 
       
         [HttpPost]
-        public IActionResult CraeteProduct(Product product)
+        public IActionResult CreateProduct(Product product)
         {
             return Ok(_product.Create(product));
         }

@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abidi\\Downloads\\Asp.NetCore7_Test-Nijum\\GTR_ASS\\GTR_ASS.csproj",
+      "projectUniqueName": "C:\\Users\\abidi\\Downloads\\GTR\\GTR_Assignment\\GTR_ASS\\GTR_ASS.csproj",
       "projectName": "GTR_ASS",
-      "projectPath": "C:\\Users\\abidi\\Downloads\\Asp.NetCore7_Test-Nijum\\GTR_ASS\\GTR_ASS.csproj",
+      "projectPath": "C:\\Users\\abidi\\Downloads\\GTR\\GTR_Assignment\\GTR_ASS\\GTR_ASS.csproj",
       "packagesPath": "C:\\Users\\abidi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abidi\\Downloads\\Asp.NetCore7_Test-Nijum\\GTR_ASS\\obj\\",
+      "outputPath": "C:\\Users\\abidi\\Downloads\\GTR\\GTR_Assignment\\GTR_ASS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abidi\\AppData\\Roaming\\NuGet\\NuGet.Config",

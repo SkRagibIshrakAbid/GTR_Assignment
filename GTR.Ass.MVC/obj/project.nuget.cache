@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oImtDKFyBa0MAeYD1jqWBS96zWasn0KQ/z3a0YWsuZXF2LIjL2ZZAKfLexp7vGEpaVZaK9mGi5ogQM8EIKPGZw==",
+  "dgSpecHash": "3uBopwS1KZARmMJ/gKqZxT9e91pAvJrlXGHbH/o/LW8xJ1480NgzAUQ6p2A2lmP57BDAt1RGMl+XG10KXPPEfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abidi\\Downloads\\Asp.NetCore7_Test-Nijum\\GTR.Ass.MVC\\GTR.Ass.MVC.csproj",
+  "projectFilePath": "C:\\Users\\abidi\\Downloads\\GTR\\GTR_Assignment\\GTR.Ass.MVC\\GTR.Ass.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abidi\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\abidi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
